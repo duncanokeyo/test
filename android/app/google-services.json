@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1037132945288",
+    "project_id": "bridgeme-951cd",
+    "storage_bucket": "bridgeme-951cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037132945288:android:b0e1424b2bb4787803cc3d",
+        "android_client_info": {
+          "package_name": "com.bigbrainzsolutions.apps.bridgmetherapist.bridgemetherapist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037132945288-gne04l3tvr361nu6hp680f8jupmd19cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9bAV0r8Ldc-L1bQ0f-1ZBXX8guqJkuRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037132945288-gne04l3tvr361nu6hp680f8jupmd19cm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
